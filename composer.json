@@ -1,6 +1,6 @@
 {
   "name": "smitshah/product-models",
-  "description": "Reusable product models for Laravel",
+  "description": "Reusable Product Models package",
   "type": "library",
   "autoload": {
     "psr-4": {
@@ -13,5 +13,7 @@
         "smitshah\\ProductModels\\ProductModelsServiceProvider"
       ]
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
